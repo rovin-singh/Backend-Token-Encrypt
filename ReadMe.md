@@ -1,4 +1,4 @@
-## install all modules
+## Install All Modules
 
 ```
  npm i express mongoose nodemon bcrypt jsonwebtoken
