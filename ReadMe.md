@@ -17,3 +17,4 @@
   Example: -- you logged In get a token whenever you visit another page you got the error if did not pass correct authorization in header.
 
 ### bcrypt:-
+- To encypt the password as singup and decrpt as in login 
